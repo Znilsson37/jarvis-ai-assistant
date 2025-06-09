@@ -42,3 +42,4 @@ vision_data/
 
 # Local configuration
 Config/config.json
+.env
